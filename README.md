@@ -19,7 +19,14 @@ Reproducible code and input files for generating weekly state-level influenza Rt
 
 ## How to run
 
-1. Clone the repository.
+1. Clone the repository. 
+In a terminal:
+
+```bash
+git clone https://github.com/bcristol93/flu_Rt_IHR_mobility.git
+cd flu_Rt_IHR_mobility
+jupyter lab
+
 2. Open the notebook in JupyterLab or Jupyter Notebook.
 3. Run all cells from top to bottom.
 4. Outputs will be written to the `outputs/` folder.
