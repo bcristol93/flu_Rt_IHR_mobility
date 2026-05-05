@@ -21,7 +21,7 @@ Reproducible code and input files for generating weekly state-level influenza Rt
 Steps to clone the repository. 
 
 1. In a terminal:
-```bash
+bash
 git clone https://github.com/bcristol93/flu_Rt_IHR_mobility.git
 cd flu_Rt_IHR_mobility
 jupyter lab
